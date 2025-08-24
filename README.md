@@ -1,0 +1,2 @@
+# RealtyNexus-A-platform-with-AI-powered-property-search-investment-insights-and-a-smart-chatbot.
+🏠 RealtyNexus – Real Estate Platform with AI-Powered Insights  RealtyNexus is a modern real estate platform built for property discovery, investment plan exploration, and intelligent Q&amp;A. It combines a production-ready web application with an AI-driven chatbot that answers questions strictly from platform data — with reliable citations.
